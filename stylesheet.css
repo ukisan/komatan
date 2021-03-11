@@ -34,6 +34,15 @@ width: 90% ;
 .img {text-align: center;
 
 }
+a {
+  padding: 0 .3em;
+  transition: all .3s;
+  text-decoration: none;
+}
+a:hover {
+  color: #fff;
+  background-color: #cccf26;
+}
 
 /*
 WEBフォントで「ふい字(HuiFontP109)」 ver130717
