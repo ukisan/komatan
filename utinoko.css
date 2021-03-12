@@ -14,8 +14,10 @@
     }
     .img {text-align: center;
 
+  
+         }
 
-  /*
+/*
 WEBフォントで「ふい字(HuiFontP109)」 ver130717
 http://customtemplate.blog112.fc2.com/blog-entry-143.html
 */
@@ -29,4 +31,4 @@ http://customtemplate.blog112.fc2.com/blog-entry-143.html
   }
   body,input,textarea{font-family:'HuiFontP109';font-size:40px;
   }
- 
+  
