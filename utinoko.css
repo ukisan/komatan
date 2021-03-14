@@ -21,11 +21,12 @@ text-align: center;
   width: 30% ;
   float: right;
   margin-left: 0px;
-
 }
 
 
-.komati-list ul li{
+
+
+.cat-list ul li{
   list-style: none;
   font-size: 50px;
   margin-top: 20px;
@@ -45,13 +46,8 @@ margin-top: 20px;
 margin-bottom: 20px;
 }
 
-.ume-list ul li {
-list-style: none;
-font-size: 50px;
-margin-top: 20px;
-margin-bottom: 20px;
 
-}
+
 /*
 WEBフォントで「ふい字(HuiFontP109)」 ver130717
 http://customtemplate.blog112.fc2.com/blog-entry-143.html
