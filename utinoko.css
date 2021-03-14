@@ -1,57 +1,55 @@
 .header{
-    color: #071353;
-    }
+  color: #071353;
+  }
 
 .header-logo {
-  font-size: 100px;
-  color: #0baf99;
-  text-align: center;
+font-size: 100px;
+color: #0baf99;
+text-align: center;
 
-  }
-  .img {text-align: center;
-    margin-left: 40px;
-  }
-
-  
+}
+.img {text-align: left;
+  margin-left: 40px;
+}
 .left {
-    width: 30% ;
-    float: left;
-    margin-right: 10px;
-    
-  }
-  .right {
-    width: 30% ;
-    float: right;
-    margin-left: 0px;
+  width: 30% ;
+  float: left;
+  margin-right: 10px;
+  
+}
+.right {
+  width: 30% ;
+  float: right;
+  margin-left: 0px;
 
-  }
+}
 
 
 .komati-list ul li{
-    list-style: none;
-    font-size: 50px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-  }
-.clear {
-  clear: both;
-}
-h1,h2,h3{
-  font-size: 80px;
-  margin-left: 40px;
-}
-.ame-list ul li {
   list-style: none;
   font-size: 50px;
   margin-top: 20px;
   margin-bottom: 20px;
+}
+.clear {
+clear: both;
+}
+h1,h2,h3{
+font-size: 80px;
+margin-left: 40px;
+}
+.ame-list ul li {
+list-style: none;
+font-size: 50px;
+margin-top: 20px;
+margin-bottom: 20px;
 }
 
 .ume-list ul li {
-  list-style: none;
-  font-size: 50px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+list-style: none;
+font-size: 50px;
+margin-top: 20px;
+margin-bottom: 20px;
 
 }
 /*
@@ -59,13 +57,12 @@ WEBフォントで「ふい字(HuiFontP109)」 ver130717
 http://customtemplate.blog112.fc2.com/blog-entry-143.html
 */
 @font-face{
-  font-family:'HuiFontP109';
-  src:url('https://dl.dropboxusercontent.com/s/6snqvg654tirsyv/HuiFontP109.eot');
-  src:url('https://dl.dropboxusercontent.com/s/6snqvg654tirsyv/HuiFontP109.eot?#iefix') format('embedded-opentype'),
-  url('https://dl.dropboxusercontent.com/s/7pscemjdvt0wyiq/HuiFontP109.woff') format('woff'),
-  url('https://dl.dropboxusercontent.com/s/0w9uuopxrns8ehi/HuiFontP109.ttf') format('truetype'),
-  url('https://dl.dropboxusercontent.com/s/xnnsbxtz8o6d98i/HuiFontP109.svg#HuiFontP109') format('svg');
-  }
-  body,input,textarea{font-family:'HuiFontP109';font-size:40px;
-  }
-  
+font-family:'HuiFontP109';
+src:url('https://dl.dropboxusercontent.com/s/6snqvg654tirsyv/HuiFontP109.eot');
+src:url('https://dl.dropboxusercontent.com/s/6snqvg654tirsyv/HuiFontP109.eot?#iefix') format('embedded-opentype'),
+url('https://dl.dropboxusercontent.com/s/7pscemjdvt0wyiq/HuiFontP109.woff') format('woff'),
+url('https://dl.dropboxusercontent.com/s/0w9uuopxrns8ehi/HuiFontP109.ttf') format('truetype'),
+url('https://dl.dropboxusercontent.com/s/xnnsbxtz8o6d98i/HuiFontP109.svg#HuiFontP109') format('svg');
+}
+body,input,textarea{font-family:'HuiFontP109';font-size:40px;
+}
