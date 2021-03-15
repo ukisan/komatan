@@ -1,14 +1,23 @@
 .header{
   color: #071353;
-  
-  
 }
-.header-logo {
+
+.title{
 font-size: 100px;
-color: #23a539;
+color: #eeeeee;
 text-align: center;
 
 }
+.header-logo {
+background:url(nobikoma.png );
+background-repeat: no-repeat;
+background-position:50% 50%;
+background-size: contain;
+padding-top: 100px;
+padding-bottom: 100px;
+
+}
+
 
 .header-list ul{
 text-align: center;
