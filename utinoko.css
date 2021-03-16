@@ -46,7 +46,33 @@ margin-top: 20px;
 margin-bottom: 20px;
 }
 
+.botann{
+  margin-top: 200px;
+  text-align: center;
+  display: block;
 
+}
+
+a:hover {
+  color: #fff;
+  background-color: #cccf26;
+  
+}
+
+.footer{
+  background-color: #c7ec44b4;
+  color: #fff;
+  height: 50px;
+  width: 100%;
+  padding: 40px;
+  margin-top: 350px;
+  position:absolute;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
 
 /*
 WEBフォントで「ふい字(HuiFontP109)」 ver130717
