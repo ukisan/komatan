@@ -45,16 +45,19 @@ color: rgba(236, 37, 210, 0.781);
 
 }
 .xxx{
-  margin: auto;
+  margin: 0px auto;
   margin-top: 300px;
+  
 }
 .image-vw {
   width: 30% ;
   float: left;
+ 
   margin-right: 50px;
 }
 .img {
   text-align: center;
+  
 }
 
 a {
