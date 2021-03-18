@@ -4,29 +4,36 @@ body{
 
 .title{
     font-size: 120px;
-    color: #579ffd;
+    color: #c9d843;
     text-align: center;
     
 }
 
   
-.img {
+.kainusi {
   text-align: left;
   margin-left: 40px;
+  margin-top: 50px;
 }
+
 .left {
   width: 30% ;
   float: left;
   margin-right: 10px;
-  
+
 }
 
+.img{
+  margin-top: 50px;
+  margin-left: 150px;
+  margin-right: 20px;
+}
 .kainusi-list ul li{
   list-style: none;
   font-size: 50px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
+
 .clear {
 clear: both;
 }
@@ -55,6 +62,7 @@ a:hover {
 .footer-logo {
   float: left;
   font-size: 32px;
+  margin-left: 120px;
 }  
   
 

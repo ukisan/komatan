@@ -11,7 +11,8 @@ color: #0baf99;
 text-align: center;
 
 }
-.img {text-align: left;
+.img {
+  text-align: left;
   margin-left: 40px;
 }
 .left {
@@ -19,11 +20,6 @@ text-align: center;
   float: left;
   margin-right: 10px;
   
-}
-.right {
-  width: 30% ;
-  float: right;
-  margin-left: 0px;
 }
 
 .cat-list ul li{
@@ -67,6 +63,7 @@ a:hover {
 .footer-logo {
   float: left;
   font-size: 32px;
+  margin-left: 120px;
 }
 
 

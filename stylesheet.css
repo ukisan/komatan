@@ -26,17 +26,18 @@ body{
 
 
 .header-list ul{
-  text-align: center;
+  text-align: left;
   padding-left: 0px;
-
+  margin-top: 300px;
+  
 }
 
 .header-list ul li {
   list-style: none;
-  margin-left: 10px;
-  margin-right: 10px;
-  font-size: 50px;
-  display: inline;
+  font-size: 60px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  
 
 }
 .header-list ul li:hover{
@@ -44,10 +45,16 @@ color: rgba(236, 37, 210, 0.781);
 
 }
 .image-vw {
-  width: 90% ;
-  margin-top: 120px;
+  width: 40% ;
+  float: left;
+  margin-top: 300px;
+  margin-right: 50px;
+  margin-left: 200px;
 }
-.img {text-align: center;
+.img {
+  text-align: center;
+ 
+  
 
 }
 
@@ -68,13 +75,14 @@ a:hover {
   height: 50px;
   width: 100%;
   padding: 40px 0px;
-  margin-top: 350px;
+  margin-top: 700px;
  
 }
 
 .footer-logo {
   float: left;
   font-size: 32px;
+  margin-left: 120px;
 }
 
 /*
