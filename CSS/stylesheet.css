@@ -15,7 +15,7 @@ body{
 
 }
 .header-logo {
-  background: url(nobikoma.png);
+  background: url(../images/nobikoma.png);
   background-repeat: no-repeat;
   background-position:50% 50%;
   background-size: contain;
@@ -45,7 +45,7 @@ color: rgba(236, 37, 210, 0.781);
 
 }
 .xxx{
-  margin: 0px auto;
+  margin: auto;
   margin-top: 300px;
   
 }
