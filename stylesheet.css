@@ -44,12 +44,14 @@ body{
 color: rgba(236, 37, 210, 0.781);
 
 }
+.xxx{
+  margin: auto;
+  margin-top: 300px;
+}
 .image-vw {
   width: 30% ;
   float: left;
-  margin-top: 300px;
   margin-right: 50px;
-  margin-left: 250px;
 }
 .img {
   text-align: center;
